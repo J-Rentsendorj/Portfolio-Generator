@@ -25,7 +25,15 @@ Repository for a command-line application that dynamically generates an HTML por
 
 ## Video Walkthrough
 
-1. **Clone the Repository**
+
+https://github.com/user-attachments/assets/b88f0aeb-55e2-454a-8fe7-456fef0651ed
+
+
+
+3. **Clone the Repository**
    ```bash
-   git clone 
+   git clone https://github.com/J-Rentsendorj/Portfolio-Generator.git
+   cd Portfolio-Generator
+   npm install
+   node index.js
 

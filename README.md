@@ -35,5 +35,5 @@ https://github.com/user-attachments/assets/b88f0aeb-55e2-454a-8fe7-456fef0651ed
    git clone https://github.com/J-Rentsendorj/Portfolio-Generator.git
    cd Portfolio-Generator
    npm install
-   node index.js
+
 
